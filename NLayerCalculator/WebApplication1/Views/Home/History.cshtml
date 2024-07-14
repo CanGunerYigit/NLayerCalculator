@@ -1,0 +1,33 @@
+﻿@model List<Calculator.Common.Dto.CalculationHistory>
+
+@{
+    ViewData["Title"] = "History";
+}
+
+<h1>History</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">First Number</th>
+            <th scope="col">Second Number</th>
+            <th scope="col">Operation</th>     <!-- Geçmiş Tablosu -->
+            <th scope="col">Result</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)  
+        {
+            <tr>
+                <td>@item.Number1</td>        
+                <td>@item.Number2</td>
+                <td>@item.Operation</td>
+                <td>@item.Result</td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

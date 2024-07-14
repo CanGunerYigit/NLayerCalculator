@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\TR\source\repos\NLayerCalculator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
